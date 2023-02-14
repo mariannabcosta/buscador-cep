@@ -89,6 +89,10 @@
   .main {
     width: 90%;
     min-height: 10%;
+  }
+  .main span {
+    margin-bottom: 5%;
+    font-size: 1.3rem;
     padding: 1%;
   }
 }
