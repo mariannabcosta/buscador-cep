@@ -84,10 +84,11 @@
     font-size: 3rem;
   }
   .main h2 {
-    font-size: 1rem;
+    font-size: 1.5rem;
   }
   .main {
     width: 90%;
     min-height: 10%;
+    padding: 1%;
   }
 }
